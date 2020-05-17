@@ -4,49 +4,46 @@
           {
               "SubjectOfTheMeeting":"SubjectOfTheMeeting",
               "extraInfo":"extraInfo",
-              "meetingInfo":"meetingInfo"
-          },
-          {
+              "meetingInfo":{
               "description":"description",
               "date":"11-11-2011",
               "hour":"11:11"
           }
-      ],
+        }
+        ]
+      ,
       "Room2":[
           {
               "SubjectOfTheMeeting":"SubjectOfTheMeeting",
               "extraInfo":"extraInfo",
-              "meetingInfo":"meetingInfo"
-          },
-          {
-              "description":"description",
-              "date":"11-11-2011",
-              "hour":"11:11"
+              "meetingInfo":{
+                "description":"description",
+                "date":"11-11-2011",
+                "hour":"11:11"
+            }
           }
-      ],
+          ],
       "Room3":[
           {
               "SubjectOfTheMeeting":"SubjectOfTheMeeting",
               "extraInfo":"extraInfo",
-              "meetingInfo":"meetingInfo"
-          },
-          {
-              "description":"description",
-              "date":"11-11-2011",
-              "hour":"11:11"
+              "meetingInfo":{
+                "description":"description",
+                "date":"11-11-2011",
+                "hour":"11:11"
+            }
           }
-      ],
+          ],
       "Room4":[
           {
               "SubjectOfTheMeeting":"SubjectOfTheMeeting",
               "extraInfo":"extraInfo",
-              "meetingInfo":"meetingInfo"
-          },
-          {
-              "description":"description",
-              "date":"11-11-2011",
-              "hour":"11:11"
+              "meetingInfo":{
+                "description":"description",
+                "date":"11-11-2011",
+                "hour":"11:11"
+            }
           }
-      ]
+          ]
   
 }
