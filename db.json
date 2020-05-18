@@ -2,10 +2,10 @@
 
       "Room1":[
           {
-              "SubjectOfTheMeeting":"SubjectOfTheMeeting",
-              "extraInfo":"extraInfo",
+              "SubjectOfTheMeeting":"Alegere Tema de Proiect",
+              "extraInfo":"Avem de ales intre 3 teme",
               "meetingInfo":{
-              "description":"description",
+              "description":"Dupa ce alegem tema trebuie sa distribuim taskuri",
               "date":"11-11-2011",
               "hour":"11:11"
           }
@@ -14,34 +14,43 @@
       ,
       "Room2":[
           {
-              "SubjectOfTheMeeting":"SubjectOfTheMeeting",
-              "extraInfo":"extraInfo",
+              "SubjectOfTheMeeting":"Efectuare proiect reciclare",
+              "extraInfo":"Trebuie sa gasim noi modalitati mai eficiente de reciclare",
               "meetingInfo":{
-                "description":"description",
-                "date":"11-11-2011",
-                "hour":"11:11"
+                "description":"Avem 3 idei pana acum",
+                "date":"01-12-2014",
+                "hour":"08:00"
+            }
+          },
+            {
+              "SubjectOfTheMeeting":"Efectuare proiect restaurare orfelinat",
+              "extraInfo":"Trebuie sa impartim taskurile",
+              "meetingInfo":{
+                "description":"intai trebuie varuit tot",
+                "date":"12-02-2000",
+                "hour":"07:00"
             }
           }
           ],
       "Room3":[
           {
-              "SubjectOfTheMeeting":"SubjectOfTheMeeting",
-              "extraInfo":"extraInfo",
+              "SubjectOfTheMeeting":"Vizionare demo",
+              "extraInfo":"Dorim sa vedem ce greseli avem in proiect",
               "meetingInfo":{
-                "description":"description",
-                "date":"11-11-2011",
-                "hour":"11:11"
+                "description":"nu sunt greseli",
+                "date":"05-01-2015",
+                "hour":"18:00"
             }
           }
           ],
       "Room4":[
           {
-              "SubjectOfTheMeeting":"SubjectOfTheMeeting",
-              "extraInfo":"extraInfo",
+              "SubjectOfTheMeeting":"Achizionare echipamente",
+              "extraInfo":"Vine o echipa noua si ne trbeuie echipament",
               "meetingInfo":{
-                "description":"description",
-                "date":"11-11-2011",
-                "hour":"11:11"
+                "description":"3 laptopuri",
+                "date":"04-12-2020",
+                "hour":"10:00"
             }
           }
           ]
